@@ -1,0 +1,45 @@
+    body {
+     margin:0;
+    }
+    .header {
+      color:white;
+      font-size:30px;
+      text-align:center;
+      min-width:800px;
+      margin:0;
+    }
+
+    #topbar {
+      background-color:#3c4d71;
+      height:88px;
+      width:100%;
+      min-width:1024px;
+      margin:0;
+    }
+    #bottombar {
+      background-color:#3c4d71;
+      height:44px;
+      width:100%;
+      min-width:1024px;
+      margin:0;
+      position: fixed;
+      z-index: 100; 
+      bottom: 0; 
+      left: 0;
+    }
+    #rightflag {
+      float: right;
+      height:88px;
+      border-top:21px;
+    }
+    #leftflag {
+      float: left;
+      height:88px;
+      border-top:21px;
+    }
+    .clear {
+       clear:both;
+    }
+    .button2 {background-color: #006847;}
+
+
